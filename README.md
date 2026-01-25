@@ -1,4 +1,15 @@
-# ORIGINSEAL
+```
+PRIM-006
+ORIGINSEAL
+Origin sealing
+
+STATUS: REGISTERED
+REGISTRY: https://speedkit.eu
+```
+
+Registered artifact. Identity governed by SPEEDKIT registry.
+
+---
 
 **ORIGINSEAL v0.0.0** is an origin primitive.
 
